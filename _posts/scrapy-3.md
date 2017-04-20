@@ -7,5 +7,5 @@ tags: 爬虫
 
 <!-- more -->
 
-本篇内容大幅参照[Scrapy爬虫+Tkinter爬取天猫热门商品](http://blog.csdn.net/osawatari/article/details/53717698)
+本篇内容参照[Scrapy爬虫+Tkinter爬取天猫热门商品](http://blog.csdn.net/osawatari/article/details/53717698)
 首先是配置环境，然后开始编写代码。
